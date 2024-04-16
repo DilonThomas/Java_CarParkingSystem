@@ -1,5 +1,5 @@
 package carparking;
-/*import java.util.Random;
+import java.util.Random;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -273,6 +273,6 @@ class CheckAvailabilityFrame extends JFrame implements ActionListener {
         mainPanel.revalidate();
         mainPanel.repaint();
     }
-}*/
+}
 
 
